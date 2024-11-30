@@ -1,0 +1,6 @@
+node_modules
+cosapp/node_modules/
+cosappbackend/node_modules/
+cosapp/.env
+cosappbackend/.env
+*.log
